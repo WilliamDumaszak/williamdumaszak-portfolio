@@ -24,3 +24,7 @@ Using CountVectorizer, we transform the tags into numerical vectors, where each 
 
 5. Recommendation Engine
 Finally, we compute cosine similarity between movie vectors to identify the top 5 most similar movies based on any selected movie. The system returns recommendations using content-based filtering.
+
+⸻
+
+To get started with the project, clone the repository, install the required dependencies using requirements.txt, and run the Jupyter Notebook cell by cell.
