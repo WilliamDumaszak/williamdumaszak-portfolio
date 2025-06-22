@@ -3,6 +3,8 @@
 This is my Data Science portfolio, where I showcase how data can be used to solve real-world business problems.  
 Feel free to reach out if you'd like to connect or discuss any of the projects!
 
+(Currently passing my personal projects to github)
+
 ## 📁 Projects
 
 ### 🎬 `recommendation_system`
